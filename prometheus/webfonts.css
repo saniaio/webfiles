@@ -1,11 +1,11 @@
 @font-face {
-    font-weight: 600;
+    font-weight: 400;
     font-style:  normal;
     font-family: 'Denim';
 
-	src: url('https://neueweb.netlify.app/prometheus/Denim-Regular.ttf') format(’ttf’),
-        url('https://neueweb.netlify.app/prometheus/Denim-Regular.woff') format(‘woff’),
-        url('https://neueweb.netlify.app/prometheus/Denim-Regular.woff2') format(‘woff2’);
+	src:    url('https://neueweb.netlify.app/prometheus/Denim-Regular.ttf') format(’ttf’),
+            url('https://neueweb.netlify.app/prometheus/Denim-Regular.woff') format(‘woff’),
+            url('https://neueweb.netlify.app/prometheus/Denim-Regular.woff2') format(‘woff2’);
   }
 
 @font-face {
@@ -13,9 +13,9 @@
     font-style:  normal;
     font-family: 'Denim';
 
-	src: url('https://neueweb.netlify.app/prometheus/Denim-SemiBold.ttf') format(’ttf’),
-        url('https://neueweb.netlify.app/prometheus/Denim-SemiBold.woff') format(‘woff’),
-        url('https://neueweb.netlify.app/prometheus/Denim-SemiBold.woff2') format(‘woff2’);
+	src:    url('https://neueweb.netlify.app/prometheus/Denim-SemiBold.ttf') format(’ttf’),
+            url('https://neueweb.netlify.app/prometheus/Denim-SemiBold.woff') format(‘woff’),
+            url('https://neueweb.netlify.app/prometheus/Denim-SemiBold.woff2') format(‘woff2’);
   }
 
 @font-face {
@@ -23,9 +23,9 @@
     font-style:  normal;
     font-family: 'Denim INK WD';
 
-	src: url('https://neueweb.netlify.app/prometheus/DenimINKWD-Regular.ttf') format(’ttf’),
-        url('https://neueweb.netlify.app/prometheus/DenimINKWD-Regular.woff') format(‘woff’),
-        url('https://neueweb.netlify.app/prometheus/DenimINKWD-Regular.woff2') format(‘woff2’);
+	src:    url('https://neueweb.netlify.app/prometheus/DenimINKWD-Regular.ttf') format(’ttf’),
+            url('https://neueweb.netlify.app/prometheus/DenimINKWD-Regular.woff') format(‘woff’),
+            url('https://neueweb.netlify.app/prometheus/DenimINKWD-Regular.woff2') format(‘woff2’);
   }
 
 @font-face {
