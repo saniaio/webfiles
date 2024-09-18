@@ -71,3 +71,162 @@
 }
 
 
+
+body, p, .hquIbs.hquIbs * {
+    font-family: 'Denim', sans-serif;
+    letter-spacing: 0.2px;
+}
+
+/*list pages title h2*/
+.hfbyUx {
+    font-family: 'Boogy Brut', serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    letter-spacing: -0.40px;
+}
+
+/*page title in nav bar*/
+.dfrxwM.show-title, .hSsnpP {
+    font-family: 'Denim INK WD', sans-serif;
+    letter-spacing: 0.1rem;
+    font-weight: 500;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+
+/*nav title*/
+.fjEqHN {
+    font-family: 'Denim INK WD', sans-serif;
+    letter-spacing: 0.08rem;
+    font-weight: 600;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+
+/*nav title container*/
+.bQBfRX.icon-as-image {
+    padding-bottom: 2rem;
+}
+
+/*nav item*/
+.fyUOTu {
+    font-family: 'Boogy Brut', serif;
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 1;
+    letter-spacing: -0.40px;
+}
+
+/*nav item wrapper*/
+.hCthmf {
+    height: auto;
+}
+
+/*page container*/
+.SLQla {
+    padding-top: 1rem;
+}
+
+/*agenda list time eyebrow*/
+.card-collection-list___StyledP-s6kvv4-18, .jNZCpx.metaText {
+    font-family: 'Denim INK WD', sans-serif;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
+/*agenda list item*/
+.card-collection-list___StyledP2-s6kvv4-19 {
+    font-family: 'Denim', sans-serif;
+    font-weight: 400;
+}
+
+/*agenda list day heading*/
+.eRwkkX.headlineMedium {
+    font-family: 'Boogy Brut', serif;
+    font-weight: 400;
+    font-size: 1.96rem;
+    letter-spacing: -0.8px;
+}
+
+/*agenda page title */
+.eRwkkX.headlineLarge {
+    font-family: 'Boogy Brut', serif;
+    font-weight: 400;
+    font-size: 1.96rem;
+    letter-spacing: -0.8px;
+    margin-top: 3rem;
+}
+
+/*agenda page recreational activities rich text h5 */
+.eRwkkX.headlineSmall {
+    font-family: 'Boogy Brut', serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    letter-spacing: -0.6px;
+}
+
+/*agenda page recreational activities rich text block */
+.dnXXeR {
+    margin-top: 1rem;
+}
+    
+/*participants list company*/
+.jnJDwW {
+    font-family: 'Denim', sans-serif;
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+    text-transform: none;
+    color: rgba(51, 51, 51, 0.7);
+}
+
+/*participants list name*/
+.dOdzwM {
+    font-family: 'Boogy Brut', serif;
+    font-weight: 400;
+    font-size: 1.25rem;
+    letter-spacing: -0.6px;    
+}
+
+/*packing list subheadings*/
+.bgaehv.switch {
+    font-family: 'Boogy Brut', serif;
+    font-weight: 400;
+    font-size: 1.25rem;
+    letter-spacing: -0.6px;   
+    margin-top: 0.5rem;
+}
+
+/*quote svg*/
+.dScncN svg {
+    width: 18px;
+    height: 18px;
+}
+
+/*quote svg container*/
+.CznMM {
+    margin-right: 1rem;
+}
+
+/*participants page h6*/
+.eRwkkX.headlineXSmall {
+    font-family: 'Boogy Brut', serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    letter-spacing: -0.6px; 
+    margin-top: 1rem;
+}
+
+/*participants page divider*/
+.spacing-small + .wire-container___StyledDiv2-sc-1scc3f6-1 {
+    margin-top: 0.25rem;
+}
+
+/*sign in labels*/
+.jNZCpx.metaText {
+    margin-top: 1rem;
+}
+
+/*sign in button*/
+.jKJkAg.wide button, .jKJkAg.wide a {
+    margin-top: 2rem;
+}
